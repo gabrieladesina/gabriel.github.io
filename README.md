@@ -41,9 +41,10 @@ This dashboard serves as a crucial tool for the cookies company’s management t
 
 
 
- # Project 2
 
-**Title:**
+# Project 2
+
+**Title**
 
 **SQL Code:**[Empoyee_Info SQL code](https://github.com/gabrieladesina/gabriel.github.io/blob/main/Employee_Info.sql)
 
