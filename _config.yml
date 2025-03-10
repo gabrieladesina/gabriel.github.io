@@ -1,6 +1,9 @@
 title: Gabriel Adesina
 logo: HeadShot.jpg
-description: A data analyst with 2 years experience working with diffeent analytic tool using advance excel(VBA & MACRo) for report automation, ssis, SQL for data Manipulation & Interogation & Power BI to creating Intelligent Report .
-#show_downloads: true
+description: A data analyst with 2 years of experience working with various analytic tools. Proficient in advanced Excel (VBA & Macro) for report automation, SSIS, SQL for data manipulation and interrogation, and Power BI for creating intelligent reports.
+- **Excel**: Advanced functions, VBA, and Macro automation.
+- **SQL**: Data manipulation, querying, and database management.
+- **SSIS**: Data integration and ETL processes.
+- **Power BI**: Data visualization and dashboard creation. 
 #google_analytics:
 theme: jekyll-theme-minimal
