@@ -75,5 +75,38 @@ Product: Drill down into the performance of individual cookie products.
 
 
 
+# Project 3
+
+**Title:** [NETFLIX DATA ANALYSIS](https://github.com/gabrieladesina/gabriel.github.io/blob/main/Netflix%20Data%20new.csv)
+
+**Tools Used:** Power BI, Excel/CSV (for data storage) & GitHub (for version control and sharing)
+
+**Project Description:** This project involves analyzing a dataset of Netflix titles to uncover insights about genre distribution and sub genre distribution.
+
+Release trends: How trends of the release date to different titles 
+
+Maturity ratings: Percentage of the title released by the required maturity rating. 
+
+Recommendations: The analysis is visualized using Power BI to create an interactive and informative dashboard.
+
+
+
+**Key findings:** Genre Trends: Identified the most popular genres and sub-genres.
+
+Release Patterns: Analyzed trends in the number of titles released over the years.
+
+Maturity Ratings: Examined the distribution of titles across different maturity ratings.
+
+Language Insights: Explored the prevalence of original audio languages.
+
+Recommendations: Investigated the relationship between release year and recommendations.
+
+
+**Dashboard Overview:**
+
+![NETFLIX DASHBOARD](NETFLIX.png)
+
+
+
 
 
